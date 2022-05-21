@@ -1,0 +1,6 @@
+﻿  Mystring.cpp
+C:\Users\eggma\source\repos\c++_basics\operatorOverload\myString\myString\Mystring.cpp(94,59): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+C:\Users\eggma\source\repos\c++_basics\operatorOverload\myString\myString\Mystring.cpp(80): warning C4172: returning address of local variable or temporary: temp
+  myString.vcxproj -> C:\Users\eggma\source\repos\c++_basics\operatorOverload\myString\x64\Debug\myString.exe
